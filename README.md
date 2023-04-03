@@ -21,3 +21,9 @@
 Занимаюсь авторизацией
 
 Ссылка на приложение: https://andrewvolkov72.github.io/cloud/
+
+**Скриншоты приложения**
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/github-my-repo-images.appspot.com/o/cloud%2Fcloud.png?alt=media&token=74ea7b65-01ca-47d6-9137-65b305d8de9c)
+![alt text](https://firebasestorage.googleapis.com/v0/b/github-my-repo-images.appspot.com/o/cloud%2Fcloud2.png?alt=media&token=bdb36f59-ffdb-4679-9f77-1ec3091b6fdc)
+![alt text](https://firebasestorage.googleapis.com/v0/b/github-my-repo-images.appspot.com/o/cloud%2Fcloud3.png?alt=media&token=8aa25bf2-1f1f-4675-912e-22614efeaa31)
